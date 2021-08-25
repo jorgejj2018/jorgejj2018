@@ -6,7 +6,7 @@
 <h1 align="center">😁 I'm Jorge Quintero</h1>
 <h3 align="center">Software Developer| Developer Web</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jorgeadj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href ="https://twitter.com/jorge_adj"><img align="center" src="https://simpleicons.org/icons/twitter.svg" height="30" width="40" /></a>
  <a href = "https://jorgejj2018.github.io/portafolio/"><img align="center" src="https://simpleicons.org/icons/react.svg" height="30" width="40" /></a>
 </p>
